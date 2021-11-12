@@ -1,0 +1,6 @@
+    SPDXVersion: SPDX-2.1
+    PackageName:  Insilico_Ab_Variant_Generator
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageHomePage: https://github.com/mit-ll/Insilico_Ab_Variant_Generator
+    PackageCopyrightText: 2021 Massachusetts Institute of Technology <tvo@ll.mit.edu>
+    PackageLicenseDeclared: BSD-2-Clause
